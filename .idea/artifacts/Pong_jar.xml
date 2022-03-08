@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Pong:jar">
+    <output-path>$PROJECT_DIR$/../../PONG</output-path>
+    <root id="archive" name="Pong.jar">
+      <element id="module-output" name="Pong" />
+      <element id="directory" name="Images">
+        <element id="file-copy" path="$PROJECT_DIR$/Images/Menu.png" />
+      </element>
+    </root>
+  </artifact>
+</component>
